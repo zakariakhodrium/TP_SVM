@@ -25,7 +25,7 @@ L'objectif de cette première question est d'utiliser un **SVM** avec un **noyau
 #| echo: false
 
 import sys
-sys.path.append('/home/zack/Apprentissage_Stat/TP_SVM/code')
+sys.path.append('../code')
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt

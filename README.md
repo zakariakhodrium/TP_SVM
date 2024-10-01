@@ -2,7 +2,7 @@
 - Une analyse de la base de données Iris
 - Une visualisation interactive des frontières de décision via une interface graphique (GUI)
 - Une étude appliquée sur une base de données d'images Labeled Faces in the Wild
-
+**NB:** Installation du package ISLP est necessaire pour tourner le code.
 ## Arborescence
 ```{bash}
 TP_SVM
